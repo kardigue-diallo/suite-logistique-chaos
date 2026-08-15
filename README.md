@@ -1,7 +1,7 @@
 # Étude de la Suite Logistique : De la Stabilité au Chaos Numérique
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit)](https://suite-logistique-chaos.streamlit.app)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 Démonstrateur interactif développé dans le cadre du **Projet de Fin d'Études (PFE)** portant sur la modélisation mathématique du chaos déterministe et ses applications en cryptographie chaotique.
@@ -63,7 +63,7 @@ Pour exécuter l'application sur votre machine :
 
 1. **Cloner le dépôt :**
 ```bash
-git clone https://github.com/kardigue-diallo/suite-logistique-chaos.git
+git clone [https://github.com/kardigue-diallo/suite-logistique-chaos.git](https://github.com/kardigue-diallo/suite-logistique-chaos.git)
 cd suite-logistique-chaos
 ```
 
