@@ -2,7 +2,7 @@
 
 > Projet de Fin d'Études (PFE) en vue de l'obtention de la **Licence en Mathématiques et Informatique**  
 > **Faculté des Sciences de Bizerte (FSB) — Université de Carthage**  
-> **Soutenu le :** 21 Mai 2026 | **Mention :** Bien (14.50/20)
+> **Soutenu le :** 20 Mai 2026 | **Mention :** Bien 
 
 ---
 
