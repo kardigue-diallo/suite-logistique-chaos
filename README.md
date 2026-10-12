@@ -14,7 +14,7 @@
 ---
 
 ## 📖 1. Présentation du Projet
-Ce projet explore la transition vers le chaos à travers l'étude approfondie d'un système dynamique discret fondamental : **la suite logistique** ($x_{n+1} = \mu x_n(1 - x_n$). 
+Ce projet explore la transition vers le chaos à travers l'étude approfondie d'un système dynamique discret fondamental : **la suite logistique** ($x_{n+1} = \mu x_n(1 - x_n$)). 
 
 L'objectif principal est de lier la rigueur de l'analyse mathématique (points fixes, stabilité, théorie de Coppel, cascade de Feigenbaum) au développement d'une application logicielle interactive de simulation et de cryptographie chaotique (testée sur poste de travail et sur terminal mobile via Pydroid 3).
 
