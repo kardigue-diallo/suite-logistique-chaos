@@ -42,15 +42,6 @@ L'objectif principal est de lier la rigueur de l'analyse mathématique (points f
 
 ---
 
-## Stack Technique
-
-* **Langage :** Python 3.9+
-* **Interface Web :** Streamlit
-* **Calcul Numérique :** NumPy
-* **Visualisation Graphique :** Plotly Express / Graph Objects, Matplotlib
-
----
-
 ## Installation & Exécution en Local
 
 Pour exécuter l'application sur votre machine :
